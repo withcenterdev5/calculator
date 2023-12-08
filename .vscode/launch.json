@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "calculator",
+            "cwd": "apps/calc",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}

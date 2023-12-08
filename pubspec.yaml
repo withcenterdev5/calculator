@@ -1,7 +1,7 @@
 name: calculator
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Simply a calculator
+version: 1.0.1+2
+repository: https://github.com/withcenterdev5/calculator
 
 environment:
   sdk: ^3.2.0
